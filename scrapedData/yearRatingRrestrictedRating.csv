@@ -56,8 +56,8 @@ year,duration,rating
 2012,2h 45m,R
 1979,2h 27m,R
 2000,1h 53m,R
-2023,2h 27m,
 2008,1h 38m,G
+2023,2h 27m,
 1981,1h 55m,PG
 2006,2h 17m,R
 1950,1h 50m,Approved
@@ -137,8 +137,8 @@ year,duration,rating
 1961,2h 59m,Approved
 1998,1h 43m,PG
 1950,2h 18m,Approved
-2022,2h 10m,PG-13
 2010,2h 18m,R
+2022,2h 10m,PG-13
 2007,2h 38m,R
 1995,2h 58m,R
 1993,2h 7m,PG-13
@@ -181,13 +181,13 @@ year,duration,rating
 1988,1h 26m,G
 1997,1h 29m,PG
 2013,2h 14m,R
-1982,1h 57m,R
 1959,3h 32m,G
+1982,1h 57m,R
 1995,1h 41m,R
 2014,1h 39m,R
 1975,3h 5m,PG
-2014,2h 29m,R
 2015,2h,R
+2014,2h 29m,R
 2016,2h 19m,R
 1925,1h 35m,Approved
 1989,2h 8m,PG
@@ -195,8 +195,8 @@ year,duration,rating
 1993,2h 13m,R
 2014,2h 2m,R
 1978,3h 3m,R
-1926,1h 18m,Passed
 2001,1h 32m,G
+1926,1h 18m,Passed
 1954,1h 48m,Approved
 1924,45m,Passed
 2010,1h 38m,PG
@@ -205,21 +205,21 @@ year,duration,rating
 1953,2h 11m,Not Rated
 2009,1h 32m,Not Rated
 1957,1h 31m,Not Rated
-1939,2h 9m,Approved
 2007,1h 51m,G
+1939,2h 9m,Approved
 2019,2h 32m,PG-13
 1953,2h 16m,Not Rated
 1998,1h 57m,R
 2015,1h 58m,R
-1957,1h 36m,Not Rated
 1976,2h,PG
+1957,1h 36m,Not Rated
 2017,2h 17m,R
 2015,2h 9m,R
 2004,2h 1m,PG-13
 1984,1h 47m,R
 1986,2h,R
-1928,1h 54m,Passed
 1995,1h 38m,Not Rated
+1928,1h 54m,Passed
 2004,1h 20m,R
 1946,2h 50m,Approved
 2003,2h 23m,PG-13
@@ -233,8 +233,8 @@ year,duration,rating
 2009,1h 33m,G
 2005,1h 52m,Not Rated
 2016,2h 25m,Not Rated
-2007,2h 28m,R
 1965,2h 52m,G
+2007,2h 28m,R
 1942,1h 39m,Approved
 1966,2h 1m,Not Rated
 1940,2h 9m,Approved
